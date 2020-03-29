@@ -6,14 +6,13 @@ OFILE='GitHub-Pages-os201.txt'
 IFILE='sandbox-201.txt'
 
 if [[ -e $1 ]]; then
-    list=$(cat $1)
-elif [[ -e $IFILE ]]; then
-    list=$(cat $IFILE)
-else
+    IFILE=$1
+elif [[ ! -e $IFILE ]]; then
     echo 'error: list file not found'
     exit -1
 fi
 
+list=$(cat $IFILE)
 out=''
 for username in $list; do
     out+=$(printf "%-21s %s" $username)
