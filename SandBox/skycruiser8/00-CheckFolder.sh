@@ -1,3 +1,4 @@
+#!/bin/bash
 # 00-CheckFolder.sh
 # ============================================================================
 # Author: Rafi Muhammad Daffa (skycruiser8)

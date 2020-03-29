@@ -1,3 +1,4 @@
+#!/bin/bash
 # 01-CheckGithubPages.sh
 # ============================================================================
 # Author: Rafi Muhammad Daffa (skycruiser8)
