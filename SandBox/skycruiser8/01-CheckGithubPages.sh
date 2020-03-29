@@ -8,6 +8,7 @@
 # os201 Github Pages site.
 #
 # VERSION:
+# v1 (2020-03-29 12:57 UTC+7) - Change site checking to use grep
 # v0 (2020-03-29 12:30 UTC+7) - Initial commit
 #
 # This is free software :)
@@ -33,8 +34,8 @@ touch $CGPOUT
 
 for II in $UNAMELIST
 do
-RESPONSE=$(curl "https://$II.github.io/os201/")
-if [ "Site  not found" == "*$RESPONSE*" ]
+NOTFOUND=$(curl "https://$II.github.io/os201/" | grep "Site not found")
+if [[ $NOTFOUND ]]
 then
 echo "$II 0" >> $CGPOUT
 else
