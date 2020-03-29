@@ -1,0 +1,23 @@
+Sun Mar 29 10:48:33 WIB 2020
+============================
+
+0) Silakan coba dalam SandBox masing-masing.
+
+1) Buat script yang akan membuat berkas "sandbox-201.txt". 
+
+2) Isi berkas tersebut ialah daftar peserta yang sudah membuat folder di SandBox ini.  
+
+3) Contoh isi "sandbox-201.txt": adhytianara, rms46, skycruiser8.
+
+4) Buat script yang memeriksa apakah sudah membuat GitHub Pages, contoh:
+   https://adhytianara.github.io/os201/
+   https://rms46.github.io/os201/
+   https://skycruiser8.github.io/os201/
+
+5) Hasilnya dimasukkan ke berkas "GitHub-Pages-os201.txt"
+   adhytianara  0
+   rms46        1
+   skycruiser8  1
+
+
+
