@@ -15,7 +15,7 @@ fi
 list=$(cat $IFILE)
 out=''
 for username in $list; do
-    out+=$(printf "%-21s %s" $username)
+    out+=$(printf "%-21s" $username)
 
     status=$(curl -o /dev/null -Isw '%{http_code}' -m 300 https://$username.github.io/os201)
     [[ $? -ne 0 ]] && {
