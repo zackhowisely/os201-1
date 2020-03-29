@@ -43,3 +43,6 @@ else
 echo "$II 1" >> $CGPOUT
 fi
 done
+
+# EOF
+
