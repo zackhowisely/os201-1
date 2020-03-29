@@ -27,5 +27,5 @@ for username in $list; do
     out+=$'\n'
 done
 
-echo "$out" > $OFILE
+echo -n "$out" > $OFILE
 echo "File '$OFILE' generated from input '$IFILE'"
