@@ -9,6 +9,7 @@
 # os201 Github Pages site.
 #
 # VERSION:
+# v2 (2020-03-30 12:21 UTC+7) - Silence curl reports & use error exit codes
 # v1 (2020-03-29 12:57 UTC+7) - Change site checking to use grep
 # v0 (2020-03-29 12:30 UTC+7) - Initial commit
 #
@@ -19,13 +20,13 @@ CFOUT="sandbox-201.txt"
 CGPOUT="GitHub-Pages-os201.txt"
 
 FNOTFOUNDMSG="$CFSCRIPT is required but cannot be found"
-CFERRORMSG="$CFOUT not found. Please use original 00-CheckFolder.sh"
+CFERRORMSG="$CFOUT not found. Please use original $CFSCRIPT"
 
-[[ -e $CFSCRIPT ]] || (echo $FNOTFOUNDMSG;exit 0)
+[[ -e $CFSCRIPT ]] || (echo $FNOTFOUNDMSG;exit 1)
 
 bash $CFSCRIPT
 
-[[ -e $CFOUT ]] || (echo $CFERRORMSG;exit 0)
+[[ -e $CFOUT ]] || (echo $CFERRORMSG;exit 1)
 
 UNAMELIST=$(cat $CFOUT)
 
@@ -35,7 +36,7 @@ touch $CGPOUT
 
 for II in $UNAMELIST
 do
-NOTFOUND=$(curl "https://$II.github.io/os201/" | grep "Site not found")
+NOTFOUND=$(curl -s "https://$II.github.io/os201/" | grep "Site not found")
 if [[ $NOTFOUND ]]
 then
 echo "$II 0" >> $CGPOUT
