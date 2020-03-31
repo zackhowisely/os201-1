@@ -10,7 +10,7 @@ fi
 
 cat $FILE | while read II
   do
-	URL=https://$II.github.io/os201/
+    URL=https://$II.github.io/os201/
     if (curl -s  "$URL" | grep "Site not found");
     then
        echo "$II 0" >> $OUTPUT 

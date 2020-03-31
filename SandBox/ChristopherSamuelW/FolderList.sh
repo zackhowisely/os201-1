@@ -8,8 +8,6 @@ if [ -f $FILE ];
   then rm $FILE
 fi
 
-touch $FILE
-
 for dir_name in $dirs
 do
   SIZE=${#dir_name}
