@@ -14,8 +14,8 @@ cat $FILE | while read II
     URL=https://$II.github.io/os201/
     if (curl -s  "$URL" | grep "Site not found");
     then
-       echo "$II 0" >> $OUTPUT 
-	else
-	   echo "$II 1" >> $OUTPUT 
+        echo "$II 0" >> $OUTPUT 
+    else
+        echo "$II 1" >> $OUTPUT 
     fi
   done
