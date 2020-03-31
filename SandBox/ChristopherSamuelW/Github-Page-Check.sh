@@ -1,5 +1,6 @@
 #!/bin/bash
 # INFO : Memeriksa GitHub Pages ada atau tidak
+# Author : Christopher Samuel (ChristopherSamuelW)
 
 FILE=sandbox-201.txt
 OUTPUT=GitHub-Pages-os201.txt
