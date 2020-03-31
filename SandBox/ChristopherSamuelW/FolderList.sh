@@ -1,5 +1,6 @@
 #!/bin/bash
 # INFO : Mencari dan menuliskan semua nama folder di os201/SandBox
+# Author : Christopher Samuel (ChristopherSamuelW)
 
 dirs=$(ls -d ../*/)
 FILE=sandbox-201.txt
