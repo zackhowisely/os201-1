@@ -36,6 +36,7 @@ touch $CGPOUT
 
 for II in $UNAMELIST
 do
+echo "Check GitHub Pages for $II"
 NOTFOUND=$(curl -s "https://$II.github.io/os201/" | grep "Site not found")
 if [[ $NOTFOUND ]]
 then
