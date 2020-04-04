@@ -16,10 +16,12 @@ This folder is used as a sandbox (as the parent folder name suggests) to learn t
 
 Among other things, topics that are evaluated in this sandbox folder include:
 
-1. Basic Git commands (init, remote, fetch, pull, add, commit, push, clone)
+1. Basic Git commands (init, remote, fetch, pull, add, commit, push, clone, stash)
 2. Markdown syntax
 3. Commit signing using GPG
-4. *And more to come...*
+4. Bash scripting language
+5. Python programming language
+6. *And more to come...*
 
 
 
