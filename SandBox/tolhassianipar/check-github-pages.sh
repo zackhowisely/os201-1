@@ -13,9 +13,9 @@ do
    then
       if curl --output /dev/null --silent --head --fail "https://${d##./../}.github.io/os201/"
       then
-         printf "%-11s %s\n" "`cut -c 1-11 <<< ${d##./../}`" "1" >> GitHub-Pages-os201.txt
+         printf "%-25s %s\n" "`cut -c 1-25 <<< ${d##./../}`" "1" >> GitHub-Pages-os201.txt
       else
-         printf "%-11s %s\n" "`cut -c 1-11 <<< ${d##./../}`" "0" >> GitHub-Pages-os201.txt
+         printf "%-25s %s\n" "`cut -c 1-25 <<< ${d##./../}`" "0" >> GitHub-Pages-os201.txt
       fi
    fi   
 done
