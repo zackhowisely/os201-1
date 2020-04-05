@@ -1,4 +1,8 @@
 #!/bin/sh
+#
+# Author :
+# Glenda Emanuella Sutanto
+# 1806133774 - OS B
 
 DIRLIST=$(ls -d ../*/ | sed -e s/"\/"//g | sed -e s/".."//)
 
