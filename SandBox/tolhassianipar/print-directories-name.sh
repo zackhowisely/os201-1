@@ -7,9 +7,9 @@
 
 echo -n "" > sandbox-201.txt
 
-for d in ./../*
+for dir in ./../*
 do
-   [[ -d "$d" ]] && echo "${d##./../}" >> sandbox-201.txt
+   [[ -d "$dir" ]] && echo "${dir##./../}" >> sandbox-201.txt
 done
 
 exit 0
