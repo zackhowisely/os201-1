@@ -1,14 +1,14 @@
 #!/bin/bash
 
-FILE="GitHub-Pages-os201.txt"
+FILE="GitHub-Folder-os201.txt"
 echo -n '' > $FILE
 
-for II in $(cat vanilla.txt)
+for II in $(cat ../vanilla.txt)
 do
-    [ -d ../$II ] && {
+    [ -d ../../$II ] && {
         printf '%-25s1\n' "$II" >> $FILE
     }  
-    [ -d ../$II ] || {
+    [ -d ../../$II ] || {
         printf '%-25s0\n' "$II" >> $FILE 
     }
 done
