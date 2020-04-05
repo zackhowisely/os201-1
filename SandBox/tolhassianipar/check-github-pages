@@ -1,5 +1,5 @@
 #!/bin/bash
-# desc: print all directories name to sandbox-201.txt
+# desc: check all establish github pages and print to GitHub-Pages-os201.txt
 
 # Modified from a05-finding-EXIST
 # Reference: https://askubuntu.com/questions/994602/how-to-write-out-all-directory-names-into-a-text-file
