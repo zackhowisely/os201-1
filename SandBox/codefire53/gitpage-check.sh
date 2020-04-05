@@ -5,7 +5,7 @@
 INPUT=sandbox-201.txt
 OUTPUT=validation-result.txt
 [-f $OUTPUT ] && rm $OUTPUT
-touch $OUTPUT;
+touch $OUTPUT
 
 cat $INPUT || while read USER
     do
