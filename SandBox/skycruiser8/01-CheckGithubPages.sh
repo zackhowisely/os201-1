@@ -40,9 +40,9 @@ echo "Check GitHub Pages for $II"
 NOTFOUND=$(curl -s "https://$II.github.io/os201/" | grep "Site not found")
 if [[ $NOTFOUND ]]
 then
-echo "$II 0" >> $CGPOUT
+printf "%-25s %d\n" "$II" 0 >> $CGPOUT
 else
-echo "$II 1" >> $CGPOUT
+printf "%-25s %d\n" "$II" 1 >> $CGPOUT
 fi
 done
 

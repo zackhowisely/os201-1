@@ -38,7 +38,7 @@ for i in range(1,4):
             else:
                 status = 1
             if count >= 1:
-                result+=f"{uname} {status}\n"
+                result+=f"{uname:25} {status}\n"
             count += 1
             idx = end
         out.write(result)
