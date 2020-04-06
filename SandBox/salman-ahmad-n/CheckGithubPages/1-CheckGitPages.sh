@@ -15,7 +15,7 @@ cat $INPUT |
 	while read username
 	do
 		STATUS=$(curl -I $username.github.io/os201/ | grep '^HTTP/\' | awk '{print $2}')
-		if [[ STATUS -e 301 ]]
+		if [[ STATUS -eq 301 ]]
 		then printf "%-25s 1\n" $username >> $OUTPUT
 		else printf "%-25s 0\n" $username >> $OUTPUT
 		fi
