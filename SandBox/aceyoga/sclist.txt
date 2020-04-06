@@ -1,0 +1,2 @@
+./01-checkdir.sh
+./02-checkgitpage.sh
