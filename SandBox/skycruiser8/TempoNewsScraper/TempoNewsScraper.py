@@ -65,12 +65,11 @@ def get_contents(url):
     return "\n".join([title[0],intro[0],author[0],content[0]])
 
 def main():
-    print("="*79)
-    print(get_contents("https://majalah.tempo.co/read/internet/98291/dunia-permainan-di-internet"))
-    print("="*79)
-    print(get_contents("https://majalah.tempo.co/read/laporan-utama/160134/mengapa-pengadaan-alat-rapid-test-covid-19-lamban"))
-    print("="*79)
-    print(get_contents("https://majalah.tempo.co/read/seni/160088/ketika-seniman-berkarya-di-tengah-wabah-covid-19?"))
+    with open("ListLink.txt", "r") as fo:
+        links = fo.read().split("\n")
+        for url in links:
+            print("="*79)
+            print(get_contents(url))
 
 if __name__ == "__main__":
     main()
