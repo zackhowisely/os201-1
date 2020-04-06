@@ -21,7 +21,6 @@ from datetime import datetime as dt
 date_in_format = "%d/%m/%y, %H:%M"
 date_out_format = "%Y-%m-%d-%H:%M"
 reader = []
-user_map = dict()
 
 try:
     with open("log.csv", "r") as fo:
@@ -46,12 +45,14 @@ try:
         else:
             continue # Presumably not a student (could be lecturer)
         
-        # Map student ID to user ID and print the most recent activity
-        # Assume date is sorted from most recent to least recent in CSV
-        if student_id not in user_map:
-            user_id = row[6].split(" ")[4].replace("'","")
-            user_map[student_id] = [user_id, timestamp_obj]
-            print(timestamp, student_id, user_id)
+        # Get only discussion view log
+        regex = re.compile("^The user with id '[0-9]*?' has viewed the discussion with id '[0-9]*?' in the forum with course module id '[0-9]*?'")
+        if re.match(regex,row[6]) != None:
+            log_particle = row[6].split(" ")
+            user_id = log_particle[4].replace("'","")
+            discussion_id = log_particle[11].replace("'","")
+            course_id = log_particle[19].replace("'","")
+            print(timestamp, student_id, user_id, discussion_id, course_id[:-1])
 
 except FileNotFoundError:
     print("This program requires a log.csv file")
