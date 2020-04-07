@@ -1,6 +1,6 @@
 109119   BELUM
 abdulazis02   HADIR
-abdurrafiarief   BELUM
+abdurrafiarief   HADIR
 abhiprayatj   BELUM
 abifajri   BELUM
 aceyoga   HADIR
@@ -8,7 +8,7 @@ adhytianara   HADIR
 adinugroho80000   BELUM
 aditmuhmd   BELUM
 adrielananta   BELUM
-adzshaf   BELUM
+adzshaf   HADIR
 agit-ui   BELUM
 ahmadirfaan1   HADIR
 ajiinisti   HADIR
@@ -22,7 +22,7 @@ amrisandha   HADIR
 andhikayusup   HADIR
 AndiALH   BELUM
 andrewtheodore   BELUM
-ariellariza   BELUM
+ariellariza   HADIR
 ariqbasyar   BELUM
 ashilaghassani   HADIR
 astridchrd   BELUM
