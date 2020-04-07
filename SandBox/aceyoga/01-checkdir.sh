@@ -15,9 +15,6 @@
 
 OUT="01-sandbox-201.txt"
 
-[[ -e $OUT ]] && rm -f $OUT
-touch $OUT
-
 [[ -e $OUT ]] && rm -f $OUT 
 touch $OUT
 

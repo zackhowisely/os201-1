@@ -2,8 +2,8 @@
 # Author: Muhamad Yoga Mahendra (aceyoga) 
 # 02-checkgitpage.sh 
 # INFO:
-# This script grabs all adjacent directories to this script's
-# current directory to sandbox-201.txt.
+# This script checks the existence of $name.github.io/os201 by using
+# curl. The name list is taken from the 01-sandbox-201.txt file.
 # This script assumes that it is executed from 00-runall.sh.
 #
 # Version 0 (2020-04-07 01:45 AM UTC+7)
