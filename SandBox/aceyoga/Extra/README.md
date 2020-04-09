@@ -13,7 +13,7 @@
   - **Note that the name resembles to it's function.**
   - `createvenv.bat`
   - `startenv.bat`
-  - `createproject.bat`
+  - `createproject.bat` (Note: place the requirements.txt in the same folder as the batch file.)
   - `migrate.bat`
   - `testproject.bat`
 - Spring boot - Gradle related
