@@ -10,7 +10,7 @@ Mufalando                 1
 PakDengklek               1
 Raygue                    0
 SulthanZahran             1
-ThatDecoff                0
+ThatDecoff                1
 aceyoga                   1
 adhytianara               1
 aditmuhmd                 0
@@ -35,7 +35,9 @@ chelmel18                 1
 codefire53                1
 dafpool4                  1
 eaglescommander           1
+enbeqi                    1
 fadhilibra                1
+fatih-alaydrus            1
 finishal                  1
 gibranbrahmanta           1
 gibranharahap             1
@@ -68,7 +70,7 @@ nurulputri                1
 qadzifi                   0
 racendol                  1
 rafaputri86               1
-raniapriliaa              0
+raniapriliaa              1
 reynardryanda             1
 rms46                     1
 ronaldi-tj                1
@@ -82,6 +84,7 @@ skycruiser8               1
 stefansagala              1
 stephenhandiar            1
 syannelimarwan            1
+tasyashbr                 1
 tesajps                   1
 thegalang                 1
 titusdirgantoro           1
