@@ -1,0 +1,14 @@
+START Tue May 12 05:20:34 WIB 2020
+==================================
+
+Folder ini untuk tanya-jawab.
+Silakan mengajukan pertanyaan dengan membuat berkas baru.
+Nama berkas = NOMOR URUT + PERTANYAAN.
+NOMOR URUT  = terbalik agar berkas pertanyaan terakhir ada di atas.
+Sangat dianjurkan agar tidak menggunakan SPACE " " dalam nama berkas pertanyaan.
+
+PS:
+Siapa saja silakan bertanya dan menjawab pertanyaan!
+
+Jolan Tru.
+
