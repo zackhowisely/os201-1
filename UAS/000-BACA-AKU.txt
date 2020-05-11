@@ -1,4 +1,4 @@
-REV01 Tue May 12 04:50:48 WIB 2020
+REV02 Tue May 12 04:54:16 WIB 2020
 START Mon May 11 15:06:45 WIB 2020
 ==================================
 
@@ -6,4 +6,11 @@ Silakan absen dahulu.
 Informasi UAS lanjut akan diumumkan secepatnya (minggu depan).
 
 RMS
+
+Hint:
+kemungkinan besar peserta UAS kelas A, B, C, M memerlukan akses
+https://github.com/UI-FASILKOM-OS/os201
+artinya, harap segera mendaftar (bagi yang belum).
+
+
 
