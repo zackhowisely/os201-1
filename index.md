@@ -1,6 +1,11 @@
 ---
 ---
 # Welcome to Operating Systems 2020 - 1 (os201)
+
+<br>
+* [GitHub](https://github.com/UI-FASILKOM-OS/os201)
+* [GitHub Pages](https://ui-fasilkom-os.github.io/os201/)
+
 <br>
 ## TANYA JAWAB dan PENGUMUMAN
 
