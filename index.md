@@ -1,8 +1,11 @@
 ---
 ---
-## Welcome to Operating Systems 2020 - 1 (os201)
+# Welcome to Operating Systems 2020 - 1 (os201)
+<br>
+## TANYA JAWAB dan PENGUMUMAN
 
-[TANYA JAWAB dan PENGUMUMAN](TANYA-JAWAB/)
+* [9998-PENGUMUMAN-PERTAMA.txt](TANYA-JAWAB/9998-PENGUMUMAN-PERTAMA.txt)
+* [9999-PERTAMAX.txt](TANYA-JAWAB/9999-PERTAMAX.txt)
 
 Jolan Tru!
 
