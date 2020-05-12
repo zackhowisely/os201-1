@@ -7,7 +7,7 @@
 * [GitHub Pages](https://ui-fasilkom-os.github.io/os201/)
 
 <br>
-## TANYA JAWAB dan PENGUMUMAN
+## [TANYA JAWAB dan PENGUMUMAN](https://github.com/UI-FASILKOM-OS/os201/tree/master/TANYA-JAWAB)
 
 * [9997-HARAP-ABSEN.txt](TANYA-JAWAB/9997-HARAP-ABSEN.txt)
 * [9998-PENGUMUMAN-PERTAMA.txt](TANYA-JAWAB/9998-PENGUMUMAN-PERTAMA.txt)
