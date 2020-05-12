@@ -52,3 +52,11 @@ Mkfile.old
 dkms.conf
 
 .DS_Store
+
+# RMS
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+

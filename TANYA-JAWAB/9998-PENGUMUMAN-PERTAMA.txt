@@ -1,0 +1,16 @@
+---
+---
+## FYI
+
+* Medium ini juga akan digunakan untuk pengumuman.
+* Bentuk UAS untuk semester 201 ini baru akan diputuskan minggu depan (setelah 17 Mei 2020).
+* Kemungkinan besar, tidak akan berbentuk ujian individual.
+* Peserta kelas A, B, C, dan M mungkin akan memerlukan akses ke proyek GitHub "UI-FASILKOM-OS/os201" ini.
+* Untuk itu, harap segera mengajukan akses terhadap proyek GitHub ini.
+
+URL: https://github.com/UI-FASILKOM-OS/os201
+
+Jolan Tru!
+
+==================================
+START Wed May 13 05:03:38 WIB 2020
