@@ -8,5 +8,10 @@
 * [9998-PENGUMUMAN-PERTAMA.txt](TANYA-JAWAB/9998-PENGUMUMAN-PERTAMA.txt)
 * [9999-PERTAMAX.txt](TANYA-JAWAB/9999-PERTAMAX.txt)
 
+<br>
+<img src="os201.png"  width="950">
+<br>
+Harap segera mendaftar ke proyek GitHub ini (bagi yang belum).
+
 Jolan Tru!
 
