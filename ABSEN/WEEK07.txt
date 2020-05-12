@@ -1,8 +1,8 @@
 109119   HADIR
 abdulazis02   HADIR
-abdurrafiarief   BELUM
+abdurrafiarief   HADIR
 abhiprayatj   BELUM
-abifajri   BELUM
+abifajri   HADIR
 aceyoga   HADIR
 adhytianara   HADIR
 adinugroho80000   BELUM
@@ -83,14 +83,14 @@ KiddoKidz   HADIR
 kolokopo   BELUM
 krisnadwitama   HADIR
 kurilham19   BELUM
-Kyosena   BELUM
+Kyosena   HADIR
 leleonardo81   HADIR
 lepiku   HADIR
 louisanatalika   HADIR
 lubnasyifa9   BELUM
 luqman-maulana   HADIR
 luthfiidrus   HADIR
-maisyrahmawati   BELUM
+maisyrahmawati   HADIR
 marcelvaldhano   HADIR
 michaelsusanto81   HADIR
 Miner239   BELUM
@@ -130,7 +130,7 @@ roygodsend23   BELUM
 rukamudrik   HADIR
 ryaasabsar   HADIR
 Salman-Ahmad-N   BELUM
-salsabiladnan   BELUM
+salsabiladnan   HADIR
 samratumaharani   BELUM
 samuelsamosir27   HADIR
 shanniadm   HADIR
@@ -141,7 +141,7 @@ stephenhandiar   HADIR
 SulthanZahran   HADIR
 syannelimarwan   HADIR
 taritrinatha   BELUM
-tasyashbr   BELUM
+tasyashbr   HADIR
 tesajps   HADIR
 ThatDecoff   HADIR
 thegalang   HADIR
