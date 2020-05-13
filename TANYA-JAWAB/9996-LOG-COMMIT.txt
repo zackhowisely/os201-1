@@ -4,8 +4,10 @@
 
 Hallo,
 
-UNTUK SELANJUTNYA jika melakukan "commit",
-harap mengakhir log dengan baris "OS201 Akun_GitHub".
+UNTUK SELANJUTNYA, jika:
+* melakukan "commit"
+* menulis di TANYA-JAWAB
+HARAP mengakhir log dengan baris "OS201 Akun_GitHub".
 
 Contoh, jika akun GitHub anda "cbkadal":
 =============
@@ -19,9 +21,9 @@ Perhatian:
 
 Jolan Tru!
 
-
 ==================================
 START Wed May 13 06:56:43 WIB 2020
 REV01 Wed May 13 08:36:22 WIB 2020
 REV02 Wed May 13 09:57:17 WIB 2020
+REV03 Wed May 13 10:04:48 WIB 2020
 
