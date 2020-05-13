@@ -118,7 +118,7 @@ phazeblaze   HADIR
 qadzifi   BELUM
 racendol   HADIR
 rafaputri86   BELUM
-RafifEL   HADIR
+RafifEL   BELUM
 ramyazhar   HADIR
 raniapriliaa   HADIR
 raularrafi   BELUM
@@ -162,3 +162,4 @@ zafirr31   BELUM
 zakiysaputra   BELUM
 zxrsvy   BELUM
 zzzzzczcnnnn   BELUM
+
