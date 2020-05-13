@@ -5,16 +5,20 @@
 Hallo,
 
 Jika melakukan "commit", harap menutup tulisan dengan informasi "OS201 Akun_GitHub".
-Perhatian: "OS201" menggunakan huruf besar.
 
 Contoh, jika akun GitHub anda "cbkadal":
 =============
 OS201 cbkadal
 =============
 
+Perhatian:
+* "OS201" menggunakan huruf besar.
+* Pengabaian dapat berakibat nilai maksimum UAS: "C".
+
 Jolan Tru!
 
 
 ==================================
 START Wed May 13 06:56:43 WIB 2020
+REV01 Wed May 13 08:36:22 WIB 2020
 
