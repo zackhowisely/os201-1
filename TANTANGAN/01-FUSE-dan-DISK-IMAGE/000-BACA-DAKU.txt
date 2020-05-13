@@ -1,5 +1,0 @@
-Terimakasih banyak, terutama bagi peserta OS201 yang selama ini berkenan untuk ikut berpartisipasi di SCELE!
-Anda sudah faham FUSE, dan sudah faham disk-image.
-Sekarang, bagaimana caranya mengakses disk-image menggunakan FUSE!
-
-Jolan Tru!
