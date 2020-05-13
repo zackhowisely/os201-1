@@ -1,0 +1,9 @@
+Q: Pada soal UAS Sistem Operasi (W10-UAS-205 nomor 3. 2017-1), ada sebuah statement "static char* str1 = "AABB\n";". 
+   Kemudian, di soal lainnya (W10-UAS-205 nomor 2. 2016-2, ada statement serupa namun tanpa "static": "char *string = "ABCD\n";"
+   
+   Pada bahasa pemrograman OOP, kedua statement ini memiliki perbedaan yang jelas, namun bagaimana implementasinya di C?
+   Saya sudah mencari beberapa sumber dan mendapatkan jawaban seperti "Static global variables are not visible outside of 
+   the C file they are defined in." (https://stackoverflow.com/questions/572547/what-does-static-mean-in-c). Saya masih
+   kurang paham bedanya apa dan apakah ada konsekuensi terhadap alur program?
+   
+OS201 skycruiser8
