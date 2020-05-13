@@ -6,9 +6,10 @@ Author: Rafi Muhammad Daffa (skycruiser8)
 
 INFO:
 Scrapes GitHub Member Access to get users who have access to the repository.
-(Now only supports 4 pages named 1.html, 2.html, 3.html, and 4.html)
+(Now only supports 6 pages named "#", "0", "1", "2", "3", and "4"
 
 VERSION:
+v1 (2020-05-13 11:04 UTC+7) - Use more HTML files in loop
 v0 (2020-03-31 12:50 UTC+7) - Initial Commit
 
 This is free software :)
@@ -21,7 +22,7 @@ prelude += "Status = 0 --> Sudah daftar, belum diaccept. Cek email!\n"
 prelude += "Status = 1 --> Sudah daftar dan sudah diaccept.\n"
 prelude += ("="*79)+"\n"
 out.write(prelude)
-for i in range(1,4):
+for i in ["#", "0", "1", "2", "3", "4"]:
     data = ""
     with open(f"{i}.html","r",encoding="cp850") as fd:
         data = fd.read()
