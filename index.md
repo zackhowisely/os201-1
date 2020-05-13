@@ -7,6 +7,7 @@
 
 ## [TANYA JAWAB dan PENGUMUMAN](https://github.com/UI-FASILKOM-OS/os201/tree/master/TANYA-JAWAB)
 
+* [9994-Mengajukan-pull-request-sudah-menjadi-contributor](TANYA-JAWAB/9994_apakah_dengan_mengajukan_pull_request_sudah_menjadi_contributor_%3F)
 * [9995-Jika-sudah-absen-tanpa-commit](TANYA-JAWAB/9995-Jika-sudah-absen-tanpa-commit-OS201AkunGitHub-harus-absen-ulang.txt)
 * [9996-LOG-COMMIT.txt](TANYA-JAWAB/9996-LOG-COMMIT.txt)
 * [9997-HARAP-ABSEN.txt](TANYA-JAWAB/9997-HARAP-ABSEN.txt)
