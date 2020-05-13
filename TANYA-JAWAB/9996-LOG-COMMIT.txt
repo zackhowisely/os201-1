@@ -4,7 +4,8 @@
 
 Hallo,
 
-Jika melakukan "commit", harap menutup tulisan dengan informasi "OS201 Akun_GitHub".
+UNTUK SELANJUTNYA jika melakukan "commit",
+harap mengakhir log dengan baris "OS201 Akun_GitHub".
 
 Contoh, jika akun GitHub anda "cbkadal":
 =============
@@ -14,6 +15,7 @@ OS201 cbkadal
 Perhatian:
 * "OS201" menggunakan huruf besar.
 * Pengabaian dapat berakibat nilai maksimum UAS: "C".
+* Sekali lagi, UNTUK SELANJUTNYA. Jadi, jangan COMMIT kalau tidak ada keperluan!
 
 Jolan Tru!
 
@@ -21,4 +23,5 @@ Jolan Tru!
 ==================================
 START Wed May 13 06:56:43 WIB 2020
 REV01 Wed May 13 08:36:22 WIB 2020
+REV02 Wed May 13 09:57:17 WIB 2020
 
