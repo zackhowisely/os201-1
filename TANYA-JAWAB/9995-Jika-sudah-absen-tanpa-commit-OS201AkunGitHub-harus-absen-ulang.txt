@@ -5,7 +5,10 @@ A: Jangan!
    Baik yang di SCELE mau pun di GitHub.
    Namun kalau lain kali bertanya, jangan lupa ditutup seperti 9996!
 
-Jolan Tru.
+Jolan Tru!
+OS201 RMS
 
-==================================
+= TAMBAHKAN JIKA MENGUBAH BERKAS INI =====
+START --
 REV01 Wed May 13 10:05:08 WIB 2020
+REV02 Thu May 14 06:48:11 WIB 2020

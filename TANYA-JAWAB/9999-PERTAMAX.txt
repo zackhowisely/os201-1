@@ -2,17 +2,25 @@
 ---
 File: 9999-PERTAMAX.txt
 
-Folder ini untuk tanya-jawab.
+Folder ini untuk PERCOBAAN tanya-jawab proyek GitHub ini.
+Gunakan SCELE untuk tanya jawab soal OS.
 Silakan mengajukan pertanyaan dengan membuat berkas baru.
 Nama berkas = NOMOR URUT + PERTANYAAN.
 NOMOR URUT  = terbalik agar berkas pertanyaan terakhir ada di atas.
 Sangat dianjurkan agar tidak menggunakan SPACE " " dalam nama berkas pertanyaan.
+HARAP mengakhir log dengan baris "OS201 Akun_GitHub".
+Contoh, jika akun GitHub anda "cbkadal":
+=============
+OS201 cbkadal
+=============
 
 PS:
 Siapa saja silakan bertanya dan menjawab pertanyaan!
 
 Jolan Tru.
+OS201 RMS
 
-==================================
+= TAMBAHKAN JIKA MENGUBAH BERKAS INI =====
 START Tue May 12 05:20:34 WIB 2020
 REV01 Wed May 13 05:02:53 WIB 2020
+REV02 Thu May 14 06:01:32 WIB 2020
