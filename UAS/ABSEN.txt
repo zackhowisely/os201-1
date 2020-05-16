@@ -63,7 +63,7 @@ hanrichie   HADIR
 HaroldHS16   HADIR
 hasanahnur303   HADIR
 hedass   HADIR
-HelmiAlf   BELUM
+HelmiAlf   HADIR
 hnsmchl   HADIR
 ichsandyrizki   HADIR
 IgoRamli   BELUM
@@ -74,7 +74,7 @@ irfanmaulananasution   BELUM
 jacobstmrg   HADIR
 JahnsMichael   HADIR
 jonathanfilbert   HADIR
-JustOneMoreLine   BELUM
+JustOneMoreLine   HADIR
 kamilakaffah07   HADIR
 keziasulami   HADIR
 khadijahrizqy   HADIR
@@ -143,7 +143,7 @@ syannelimarwan   HADIR
 taritrinatha   BELUM
 tasyashbr   HADIR
 tesajps   HADIR
-ThatDecoff   BELUM
+ThatDecoff   HADIR
 thegalang   HADIR
 titusdirgantoro   HADIR
 tolhassianipar   HADIR
