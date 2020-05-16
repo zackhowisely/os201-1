@@ -1,0 +1,19 @@
+Q: Apakah diperbolehkan untuk mengerjakan UAS di luar Badak? Sejauh ini saya melihat seluruh peserta menggunakan Badak
+   untuk filename masing-masing (kecuali Abdurrafi yang menggunakan Bash online). Saya berencana menggunakan WSL sebagai
+   failover jika koneksi saya kurang memadai (tempat saya bekerja mendekati blind spot dan berebut koneksi dengan lebih
+   dari 5 perangkat). Jika boleh, apakah saya perlu mengganti filename yang saya unggah sebelumnya?
+   
+   Jolan Tru,
+   OS201 skycruiser8
+
+A: Boleh saja. Hanya saja jika ada masalah, harus dapat trouble shooting mandiri.
+   Sepertinya ada risiko tidak 100% kompatibel jika menggunakan WSL.
+   Bagaimana kalau dengan VirtualBox atau qemu atau VMWare?
+   
+Jolan Tru
+OS201 rms46
+
+
+= TAMBAHKAN JIKA MENGUBAH BERKAS INI =====
+START Fri May 15 19:22:52 WIB 2020
+REV01 Sat May 16 01:55:00 WIB 2020

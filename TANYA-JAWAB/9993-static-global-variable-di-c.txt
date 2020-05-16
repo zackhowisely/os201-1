@@ -1,0 +1,78 @@
+---
+---
+
+Q: Pada soal UAS Sistem Operasi (W10-UAS-205 nomor 3. 2017-1), ada sebuah statement "static char* str1 = "AABB\n";". 
+   Kemudian, di soal lainnya (W10-UAS-205 nomor 2. 2016-2, ada statement serupa namun tanpa "static": "char *string = "ABCD\n";"
+   
+   Pada bahasa pemrograman OOP, kedua statement ini memiliki perbedaan yang jelas, namun bagaimana implementasinya di C?
+   Saya sudah mencari beberapa sumber dan mendapatkan jawaban seperti "Static global variables are not visible outside of 
+   the C file they are defined in." (https://stackoverflow.com/questions/572547/what-does-static-mean-in-c). Saya masih
+   kurang paham bedanya apa dan apakah ada konsekuensi terhadap alur program?
+   
+OS201 skycruiser8
+
+
+A: Ada dua issue:
+
+Pertama, apakah ada gunanya mendeklarasikan "static" pada Demo tersebut. 
+Jawabannya: Tidak.
+Kemungkinan, deklarasi tersebut merupakan hasil "copas" dari program lain 
+(sebelumnya) yang memerlukan deklarasi tersebut.
+
+Kedua, pada bahasa C, hanya ada variabel Global dan Lokal.
+Namun masalahnya variable Lokal bersifat dinamis yaitu selalu direset 
+sebelum masuk ke lokal tersebut. Jadi, hanya variable Global yang sifatnya
+statis yaitu nilainya tetap tanpa direset. Karena itu, diperkenalkan 
+variabel "statik" yang dapat kita batasi cakupannya seperti variabel lokal, namun tanpa direset.
+
+contoh1.c:
+==========
+int ii=0;
+void pertama() {
+   ii++;
+}
+
+Setiap memanggil fungsi pertama(), nilai ii tambah 1.
+Juga, variabel ii dapat diakses dari fungsi lain diluar berkas 
+contoh1.c dengan deklarasi:
+extern int ii;
+
+contoh2.c:
+==========
+static int ii=0;
+void kedua() {
+   ii++;
+}
+
+Seperti contoh1.c, setiap memanggil fungsi kedua(), nilai ii tambah 1.
+Namun, variabel tersebut tidak terlihat dari luar berkas contoh2.c
+
+contoh3.c:
+==========
+void ketiga() {
+   static int ii=0;
+   ii++;
+}
+
+Seperti contoh1.c, setiap memanggil fungsi ketiga(), nilai ii tambah 1.
+Namun, variabel tersebut hanya dapat diakses oleh fungsi ketiga().
+Jadi, bahkan fungsi-fungsi lain dalam berkas contoh3.c pun tidak dapat mengakses variable ii.
+
+contoh4.c:
+==========
+void keempat() {
+   int ii=0;
+   ii++;
+   printf("Nilai ii selalu sama dengan 1\n");
+}
+
+Setiap memanggil fungsi keempat(), nilai selalu sama dengan "1".
+
+
+Jolan Tru!
+OS201 RMS
+
+= TAMBAHKAN JIKA MENGUBAH BERKAS INI =====
+START --
+REV01 Thu May 14 06:54:22 WIB 2020
+

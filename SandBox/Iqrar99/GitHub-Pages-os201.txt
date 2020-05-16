@@ -1,4 +1,5 @@
 109119 0
+abifajri 0
 aceyoga 1
 adhytianara 1
 aditmuhmd 0
@@ -25,6 +26,8 @@ chelmel18 1
 ChristopherSamuelW 1
 codefire53 1
 dafpool4 1
+darklordace 1
+drassd 0
 eaglescommander 1
 enbeqi 1
 fadhilibra 1
@@ -38,7 +41,10 @@ habelct 1
 hanardiansyah 1
 hanifahrahma 1
 hannajtm 0
+hedass 0
+Hnsmchl 1
 ihsanazizi14 1
+imamsetyo96 1
 Iqrar99 1
 jacobstmrg 1
 JahnsMichael 1
@@ -47,6 +53,8 @@ kamilakaffah07 1
 keziasulami 1
 khadijahrizqy 1
 krisnadwitama 1
+Kyosena 0
+leleonardo81 1
 lepiku 1
 louisanatalika 1
 luqman-maulana 1
@@ -79,7 +87,7 @@ reynardryanda 1
 rms46 1
 ronaldi-tj 1
 rukamudrik 1
-ryaasabsar 0
+ryaasabsar 1
 salman-ahmad-n 1
 salsabiladnan 1
 samuelsamosir27 1
@@ -95,6 +103,7 @@ ThatDecoff 1
 thegalang 1
 titusdirgantoro 1
 tolhassianipar 1
+wahprima 1
 wulanfebyazzahra 1
 wulanmantiri 1
 xerdiosa 1

@@ -8,8 +8,26 @@ A: Bantu menjawab sebagai Admin. Jawabannya belum.
    mengubah berkas tanpa harus melalui persetujuan peserta lain.
    
    Saya sudah menambahkan Saudara/i menjadi kontributor pada repositori ini.
-  
+   OS201 skycruiser8
+   
 Jolan Tru!
 
-==================================
+A(OP): Terimakasih skycruiser8
+
+Jolan Tru!
+
+OS201 wahprima
+
+CATATAN:
+Saya hanya menggunakan "contributors" sebagai indikator jumlah yang sudah mengakses proyek GitHub ini.
+Jumlah total peserta OS kelas A, B, C, M ialah 164.
+Harapan saya ialah jumlah "contributors" serta ABSEN UAS mendekati angka 164 tersebut di atas.
+
+Jolan Tru!
+OS201 RMS
+
+= TAMBAHKAN JIKA MENGUBAH BERKAS INI =====
+START  ---
 REV01 Wed May 13 10:47:08 WIB 2020
+REV02 Thu May 14 06:49:15 WIB 2020
+

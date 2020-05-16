@@ -5,10 +5,15 @@
 
 Harap absen setelah membaca ini.
 URL: https://github.com/UI-FASILKOM-OS/os201/blob/master/UAS/ABSEN.txt
+Mengabsen ini merupakan:
+1) Konfirmasi memiliki akses atas proyek GitHub ini.
+2) Konfirmasi memahami bahwa ada ** KEMUNGKINAN** UAS menggunakan proyek GitHub ini.
 
 Jolan Tru!
 
-PS: Absen lainnya (mingguan) sudah tidak diperlukan!
+PS: Absen lainnya (mingguan) sudah tidak lagi diperlukan!
 
-==================================
+= TAMBAHKAN JIKA MENGUBAH BERKAS INI =====
 START Wed May 13 06:20:50 WIB 2020
+REV01 Thu May 14 06:46:14 WIB 2020
+
