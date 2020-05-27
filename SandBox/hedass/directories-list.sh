@@ -12,5 +12,4 @@ fi
 list=$(ls $DIR -l | grep ^d | cut -d ' ' -f9)
 
 echo "$list" > $OUTFILE
-
 echo "File $OUTFILE telah dibuat dengan input dari $DIR"
