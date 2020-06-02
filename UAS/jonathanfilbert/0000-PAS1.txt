@@ -1,0 +1,8 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+  Sekitar 15 menit untuk benar benar mengerti flow dan maksud dari tugas secara keseluruhan.
+2) Apakah anda GSGS?
+  Ya, saya menonton banyak video di YouTube untuk bagaimana melakukan encryption, decryption, dan bagaimana menambahkan public key baru ke machine kita. 
+3) Apakah anda tanya-sana/tanya-sini?
+  Ya, saya bertanya kepada beberapa teman, untuk mengetahui beberapa hal, seperti mengapa pada saat saya selesai merekam script nya, saat saya cat filenya, file saya kosong, dll.
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya?
+  Sebelum masuk kelas OS, saya hanya pernah mendengar public key dan private key encryption, tetapi belum pernah sama sekali mencoba untuk membuat key pair dan melakukan encryption - decryption sendiri.
