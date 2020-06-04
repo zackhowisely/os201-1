@@ -1,0 +1,8 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+	Sekitar 20 menit karena saya harus mengerti flow dokumennya dari awal
+2) Apakah anda GSGS?
+	Ya, saya juga menonton beberapa video di youtube untuk mendalami pemahaman saya
+3) Apakah anda tanya-sana/tanya-sini?
+	Ya, saya bertanya kepada beberapa teman saya tentang mata kuliah dan juga tugas/draft yang saya kurang pahami
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya.
+	Baru-baru ini saya hanya tau cara kerja enkripsi tetapi saya tidak pernah memakai aplikasi gpg
