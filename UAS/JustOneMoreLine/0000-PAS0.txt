@@ -1,0 +1,19 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+  Saya memerlukan waktu kurang lebih 2 jam untuk memahami dokumen ini(PAS0), walaupun
+  banyak dari waktu tersebut merupakan googling dan trial error dengan bash.
+  
+2) Apakah anda GSGS?
+  Ya, ini merupakan cara utama saya dalam belajar. Saya merupakan orang yang lebih mudah
+  memahami konsep dari praktik ketimbang membaca, sehingga mencari solusi dengan GSGS 
+  dan mencobanya sudah menjadi kebiasaan saya.
+  
+3) Apakah anda tanya-sana/tanya-sini?
+  Ya, jika GSGS tidak membuahkan hasil, saya akan menanyai teman-teman saya.
+  Namun jika itu tidak membuahkan hasil juga, maka saya akan mencoba menggunakan scele.
+  
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan 
+   sebelumnya.
+   Tidak juga, kebanyakan dari syarat dokumen ini(PAS0) sudah dibahas dalam demo atau dalam
+   postingan scele, seperti pgp dari demo Week03, Web Page dari postingan scele
+   berjudul "Mari Bermain Github Pages", dan scripting untuk logging tanggal pengerjaan dari
+   postingan pada bulan mei lalu. 
