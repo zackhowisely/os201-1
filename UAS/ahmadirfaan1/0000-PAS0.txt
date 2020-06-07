@@ -1,0 +1,13 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
+    Kurang lebih 1 jam untuk memahami isi dari dokumen tersebut
+2) Apakah anda GSGS?
+    Ya, terutama untuk penggunaan gpg ketika saya ingin export/import public key-nya.
+3) Apakah anda tanya-sana/tanya-sini?
+    Ya, tapi saya akan berusaha terlebih dahulu untuk melakukannya sendiri dengan
+    melakukan GSGS
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan
+    Untuk PAS0 sendiri semua sudah pernah dilakukan pada week-week sebelumnya.
+
+===============================================================
+Rev.0 07-Jun-2020 13:37 WIB
+===============================================================
