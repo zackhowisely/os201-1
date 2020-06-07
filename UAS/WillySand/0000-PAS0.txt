@@ -1,0 +1,5 @@
+1) Berapa lama dibutuhkan untuk memahami dokumen ini? Sekitar 1 jam sampai 1 jam setengah
+2) Apakan Anda GSGS? Ya, saya GSGS
+3) Apakah Anda tanya sana/tanya sini? Ya, saya bertanya ke teman saya
+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan
+   >Menggunakan GPG encryption
